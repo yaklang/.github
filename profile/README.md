@@ -19,9 +19,9 @@
 
 | 方向 | 项目 | 说明 |
 | :-- | :-- | :-- |
-| 🧬 语言 · 引擎 | [Yaklang](https://github.com/yaklang/yaklang) · [VS Code 扩展](https://github.com/yaklang/yaklang-support) | CDSL + YakVM + SSA + SyntaxFlow，安全领域编程语言 |
-| 🛡️ 安全平台 | [Yakit](https://github.com/yaklang/yakit) | 交互式应用安全测试平台 / Yaklang 原生 IDE（MITM · Web Fuzzer · 插件） |
-| 🤖 AI × 安全 | [Memfit AI](https://memfit.ai) · `yaklang-ai-system-design` | 递归双引擎智能体 + C.O.R.E. P.A.C.T. 记忆框架 |
-| 🎯 评测 · 靶场 | [HackSkills](https://github.com/yaklang/hack-skills) · [HackBenchmark](https://hackbenchmark.com) · `redhaze-range` | AI Agent 攻防技能库 / 可复现评测基准 / 安全靶场 |
+| 语言 · 引擎 | [Yaklang](https://github.com/yaklang/yaklang) · [VS Code 扩展](https://github.com/yaklang/yaklang-support) | CDSL + YakVM + SSA + SyntaxFlow，安全领域编程语言 |
+| 安全平台 | [Yakit](https://github.com/yaklang/yakit) | 交互式应用安全测试平台 / Yaklang 原生 IDE（MITM · Web Fuzzer · 插件） |
+| AI × 安全 | [Memfit AI](https://memfit.ai) · `yaklang-ai-system-design` | 递归双引擎智能体 + C.O.R.E. P.A.C.T. 记忆框架 |
+| 评测 · 靶场 | [HackSkills](https://github.com/yaklang/hack-skills) · [HackBenchmark](https://hackbenchmark.com) · `redhaze-range` | AI Agent 攻防技能库 / 可复现评测基准 / 安全靶场 |
 
-<div align="center"><sub><strong>做难而正确的事 · Do the hard, right things.</strong>　|　💬 微信公众号「Yak Project」　·　© Yaklang.io Project</sub></div>
+<div align="center"><sub><strong>做难而正确的事 · Do the hard, right things.</strong>　|　微信公众号「Yak Project」　·　© Yaklang.io Project</sub></div>
