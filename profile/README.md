@@ -2,7 +2,7 @@
 
 <img src="assets/yak-logo.png" alt="YAK" width="200" />
 
-<br/><br/>
+<br/>
 
 **安全能力融合 · AI 原生的网络安全技术栈**　|　<em>A CDSL-centric, AI-native cybersecurity stack</em>
 
